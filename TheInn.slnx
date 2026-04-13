@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TheInn/TheInn.csproj" />
+  <Project Path="TheInnTests/TheInnTests.csproj" Id="26fc52a9-0b4e-4a50-8eb1-cae453f453f3" />
+</Solution>
